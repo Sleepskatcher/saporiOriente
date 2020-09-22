@@ -1,0 +1,90 @@
+QWidget {
+		background: #666666;
+		color: #ffffff;
+		font: bold 12px;
+}
+
+QMenuBar::disabled {
+		color: #cc0000;
+}
+
+QMenuBar::item::selected {
+		background: transparent;
+		border: 1px solid #ffffff;
+}
+
+QMenu::item::selected {
+		background: transparent;
+		border: 1px solid #ffffff;
+}
+
+QMenu::item::disabled {
+		color: #cc0000;
+}
+
+QComboBox {
+		border: 1px solid #ffffff;
+		border-radius: 3px;
+}
+
+QPushButton::disabled {
+		color: #b30000;
+}
+
+QPushButton {
+		height: 18px;
+        background-color: #8c8c8c;
+        border-style: outset;
+        border-width: 2px;
+        border-radius: 10px;
+        border-color: #ffffff;
+        font: bold 15px;
+		text-transform: uppercase;
+		color: #ffffff;
+        min-width: 10em;
+        padding: 6px;
+}
+
+QPushButton#salvaMod,QPushButton#ancora, QPushButton#rimuoviF,QPushButton#rimuoviC {
+		font: bold 12px;
+}
+
+QLineEdit {
+		border: none;
+		padding-bottom: 2px;
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		background-color:rgba(0,0,0,0);
+}
+
+QCheckBox::disabled {
+		color: #ff0000;
+}
+
+QScrollBar:vertical {
+		border: none;
+		background: #000000;
+		margin: 20px 0px 20px 0px;
+}
+
+QScrollBar::handle:vertical {
+		background: qlineargradient(x1:0, y1:0, x2:1, y2:0,
+		stop: 0 #ffffff, stop: 0.5  #ffffff, stop:1  #ffffff);
+		min-height: 20px;
+}
+
+QScrollBar::add-line:vertical {
+		background: qlineargradient(x1:0, y1:0, x2:1, y2:0,
+		stop: 0  #ffffff, stop: 0.5  #ffffff, stop:1  #ffffff);
+		height: 20px;
+		subcontrol-position: bottom;
+		subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:vertical {
+		background: qlineargradient(x1:0, y1:0, x2:1, y2:0,
+		stop: 0  #ffffff, stop: 0.5  #ffffff, stop:1  #ffffff);
+		height: 20px;
+		subcontrol-position: top;
+		subcontrol-origin: margin;
+}

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMMAGINI/critical.png</file>
+        <file>IMMAGINI/information.png</file>
+        <file alias="logo.jpg">IMMAGINI/logo.jpg</file>
+        <file>IMMAGINI/ramen.jpg</file>
+        <file>IMMAGINI/riso.jpg</file>
+        <file>IMMAGINI/sushi.jpg</file>
+        <file>IMMAGINI/udon.jpg</file>
+        <file>IMMAGINI/warning.png</file>
+        <file>style.qss</file>
+        <file>IMMAGINI/dolce.jpg</file>
+    </qresource>
+</RCC>

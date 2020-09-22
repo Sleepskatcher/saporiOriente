@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <gelatoFritto nomePiatto="nnn" basePiatto="3" piccante="No" ingredientiCaldi="Pane al mais" ingredientiFreddi="Gelato al cioccolato" GlassaAlCioccolato="No" Panna="No"/>
+    <sushi nomePiatto="Sushi special" basePiatto="1" piccante="No" ingredientiFreddi="Avocado" alga="No" pregiato="Si" pezzi="4"/>
+    <sushi nomePiatto="Sushi special 2" basePiatto="1" piccante="No" ingredientiFreddi="Avocado,Gamberone crudo,Salmone scottato" alga="No" pregiato="No" pezzi="4"/>
+    <risoCondito nomePiatto="Riso al pollo" basePiatto="1" piccante="Si" ingredientiCaldi="Pollo fritto,Carote" saltato="No"/>
+    <ramen nomePiatto="Ramen vegetariano" basePiatto="2" piccante="No" ingredientiCaldi="Uovo sodo,Carote" baseBrodo="1"/>
+    <risoCondito nomePiatto="Riso ai gamberi e verdure" basePiatto="1" piccante="No" ingredientiCaldi="Gamberetti saltati,Carote,Bamboo" saltato="No"/>
+</root>

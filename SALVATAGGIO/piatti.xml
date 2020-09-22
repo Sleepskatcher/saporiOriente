@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<risoCondito nomePiatto="Riso alla cantonese" basePiatto="1" piccante="Si" ingredientiCaldi="Prosciutto,Gamberetti lessati,Uovo saltato" saltato="No"/>
+    <sushi nomePiatto="Sushi mediterraneo" basePiatto="1" piccante="No" ingredientiFreddi="Branzino crudo,Wasabi" alga="No" pregiato="No" pezzi="4"/>
+    <ramen nomePiatto="Ramen monte Fuji" basePiatto="2" piccante="No" ingredientiCaldi="Manzo saltato,Prosciutto,Bamboo" baseBrodo="1"/>
+    <gelatoFritto nomePiatto="Gelato fritto rosa con panna" basePiatto="3" piccante="No" ingredientiCaldi="Pane al mais" ingredientiFreddi="Gelato alla fragola" GlassaAlCioccolato="No" Panna="Si"/>
+	<ramen nomePiatto="Ramen vegetariano piccante" basePiatto="2" piccante="Si" ingredientiCaldi="Uovo sodo,Germogli di soia,Carote" baseBrodo="3"/>
+    <udon nomePiatto="Udon al pollo" basePiatto="2" piccante="No" ingredientiCaldi="Pollo saltato,Bamboo,Funghi" fattiMano="No"/>
+    <udon nomePiatto="Udon Oriente" basePiatto="2" piccante="Si" ingredientiCaldi="Manzo saltato,Salsa di soia,Bamboo" fattiMano="No"/>
+    <gelatoFritto nomePiatto="Gelato fritto bianco" basePiatto="3" piccante="No" ingredientiCaldi="Pane di riso" ingredientiFreddi="Gelato alla panna" GlassaAlCioccolato="No" Panna="Si"/>
+    <sushi nomePiatto="Sushi special" basePiatto="1" piccante="No" ingredientiFreddi="Branzino crudo,Gambero crudo" alga="No" pregiato="No" pezzi="4"/>
+    <sushi nomePiatto="Sushi ghibli" basePiatto="1" piccante="No" ingredientiFreddi="Philadelphia,Avocado,Salmone crudo" alga="Si" pregiato="No" pezzi="4"/>
+    <ramen nomePiatto="Ramen del dragone" basePiatto="2" piccante="Si" ingredientiCaldi="Calamari saltati,Piselli,Gamberetti lessati" baseBrodo="2"/>
+    <sushi nomePiatto="Sushi al tonno piccante" basePiatto="1" piccante="Si" ingredientiFreddi="Tonno crudo,Wasabi" alga="No" pregiato="Si" pezzi="4"/>
+	<gelatoFritto nomePiatto="Gelato fritto macchiato" basePiatto="3" piccante="No" ingredientiCaldi="Pane al mais" ingredientiFreddi="Gelato stracciatella" GlassaAlCioccolato="No" Panna="No"/>
+    <udon nomePiatto="Udon piccanti al manzo" basePiatto="2" piccante="Si" ingredientiCaldi="Manzo saltato" fattiMano="No"/>
+    <risoCondito nomePiatto="Riso al pollo" basePiatto="1" piccante="Si" ingredientiCaldi="Pollo fritto,Carote" saltato="No"/>
+    <ramen nomePiatto="Ramen vegetariano" basePiatto="2" piccante="No" ingredientiCaldi="Uovo sodo,Carote" baseBrodo="1"/>
+    <risoCondito nomePiatto="Riso ai gamberi e verdure" basePiatto="1" piccante="No" ingredientiCaldi="Gamberetti saltati,Carote,Bamboo" saltato="No"/>
+    <sushi nomePiatto="Sushi al tonno con wasabi" basePiatto="1" piccante="No" ingredientiFreddi="Tonno crudo,Wasabi" alga="No" pregiato="No" pezzi="8"/>
+    <ramen nomePiatto="Ramen del marinaio" basePiatto="2" piccante="No" ingredientiCaldi="Bamboo,Uovo sodo,Gamberetti lessati" baseBrodo="1"/>
+    <risoCondito nomePiatto="Riso saltato della montagna" basePiatto="1" piccante="Si" ingredientiCaldi="Funghi,Bamboo" saltato="Si"/>
+	<gelatoFritto nomePiatto="Gelato fritto classico" basePiatto="3" piccante="No" ingredientiCaldi="Pane bianco" ingredientiFreddi="Gelato alla panna" GlassaAlCioccolato="No" Panna="No"/>
+    <risoCondito nomePiatto="Riso al cheio" basePiatto="1" piccante="Si" ingredientiCaldi="Seppie saltate,Funghi,Bamboo" saltato="Si"/>
+    <udon nomePiatto="Udon ai sette colori" basePiatto="2" piccante="No" ingredientiCaldi="Gamberetti saltati,Bamboo" fattiMano="No"/>
+    <udon nomePiatto="Udon vegetariani" basePiatto="2" piccante="No" ingredientiCaldi="Bamboo,Salsa di soia,Carote,Funghi" fattiMano="No"/>
+	<gelatoFritto nomePiatto="Gelato fritto scuro" basePiatto="3" piccante="No" ingredientiCaldi="Pane integrale" ingredientiFreddi="Gelato al cioccolato" GlassaAlCioccolato="Si" Panna="No"/>
+</root>
